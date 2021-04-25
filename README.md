@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @adilsammar
+- 👀 I’m interested in working on cuytting edge projects in the field of AI/ML/Web
+- 🌱 I’m currently learning Computer Vsion Techniques
+- 💞️ I’m looking to collaborate on some cutting edge ML/Web Projects
+- 📫 You can find more details or connect with me here https://www.linkedin.com/in/ammaradil/
